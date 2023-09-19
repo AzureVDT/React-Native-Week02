@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Front-end developer",
+      "author": "AzureVDT"
+    },
+    {
+      "id": 2,
+      "title": "Back-end developer",
+      "author": "AzureVDT"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "good job",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "fullName": "Thong Dinh",
+    "username": "Azure03"
+  }
+}
